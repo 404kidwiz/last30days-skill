@@ -2,7 +2,7 @@
 
 > Research what people **actually** say about any topic in the last 30 days.
 
-![last30days](./assets/poster-wide.png)
+![last30days](./assets/poster-wide-v2.png)
 
 A Claude Code skill that pulls real posts, discussions, reactions, and engagement signals from Reddit, X/Twitter, YouTube, TikTok, Hacker News, Polymarket, GitHub, Bluesky, and the web — then groups everything by **story and theme**, not by source.
 
